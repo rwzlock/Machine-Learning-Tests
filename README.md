@@ -1,3 +1,7 @@
+#Irispy Machine Learning
+
+The goal of this project is to test an example machine learning program to predict the class of an iris. At the end I test my prediction to see if the algorithms can accurately predict the correct class given certain values for sepal and petal lengths.
+
 This is a test of basic machine learning algorithms and the Scikit-learn library in Python.
 Reference: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
